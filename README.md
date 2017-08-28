@@ -16,7 +16,7 @@ Please use Github issues (https://github.com/caffe2/caffe2/issues) to ask questi
 Please participate in our survey (https://www.surveymonkey.com/r/caffe2). We will send you information about new releases and special developer events/webinars.
 
 
-## License and Citation
+## License and Citations
 
 Caffe2 is released under the [BSD 2-Clause license](https://github.com/Yangqing/caffe2/blob/master/LICENSE).
 
